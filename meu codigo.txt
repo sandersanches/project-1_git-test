@@ -1,0 +1,16 @@
+Olá Mundo - Testando Git
+
+Anotações: 
+
+Iniciando Git: apos instalar o git, clicando com o botão direito, abra o gitbash na pasta em que deseja versionar. 
+
+   	git init  	// COMANDO PARA INICIAR O GIT
+	git status  	// COMANDO PARA VERIFICAR ALTERAÇÕES
+
+Para adicionar um unico arquivo à lista de arquivos a serem preparados para o versionamento (commit), digite o comando abaixo:
+
+	git add "meu codigo.txt" 	// NESTE CASO O ARQUIVO A SER ADICIONADO É "meu codigo.txt"
+
+Para adicionar todos os arquivos ao mesmo tempo à lista de arquivos a serem preparados para o versionamento, digite o comando abaixo:
+
+	git add .
